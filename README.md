@@ -1,0 +1,16 @@
+このセクションで学んだコマンド
+- ls
+    - a
+    -l
+- pwd
+- cd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- cat
+- vi
+- >
+- >>
+- &&
